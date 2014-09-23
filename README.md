@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CakePHP Application Skeleton
 
 A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.0.
@@ -25,4 +24,3 @@ terminus
 ========
 
 Docker multi-host UI and management webapplication
->>>>>>> 4a32586f38aa28ddc10c5d6d1ad065771bc18feb
